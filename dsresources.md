@@ -1,4 +1,4 @@
-#Data Science Resources<
+# Data Science Resources
 
 Sometimes, Stack Overflow just isn't what you're looking for...
 Here are some other [mostly free] resources.
@@ -28,3 +28,7 @@ Open Source Data Science Program| https://github.com/open-source-society/data-sc
 ## Other
 I started collecting these when I was a student, and should move to this updated list.
 https://github.com/RahnL/DataScience-SMU/blob/master/Links.md
+
+Using Notepad++ to edit and view Markdown, I'm using this plugin.
+https://github.com/nea/MarkdownViewerPlusPlus
+(Currently lacking support for tables. May switch to something else.)
