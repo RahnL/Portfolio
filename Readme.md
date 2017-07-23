@@ -1,6 +1,7 @@
-# Rahn's Github Portfolio
+# <a href="https://rahnl.github.io/RahnL/">Rahn's Portfolio</a>
 
-## Books and Courseware</h1>
+
+## Books and Courseware
 This <a href="dsresources.html">resource list</a> is a listing of free and legal books and courseware I've been putting together.
 
 ## Datascience@SMU.edu
@@ -19,7 +20,7 @@ Some of these are listed here. (We didn't do all of them via Github)
 
 ### Visualization
 I had two classes in visualization, where we used Processing, Java, C++, and D3 and html to create visualizations
-  #### Project
+#### Project
 One of the final projects is a map for <a href='http://MyWorldOfCoke.com/map.php'>My world of Coke</a>, showing a database 
 driven map of countries I have a can/bottle of coke from.
 
@@ -29,10 +30,5 @@ I later moved this to the domain, and re-did the backend to be in MySQL with PHP
 
 The repo showing both versions is <a href='https://github.com/RahnL/MyWorldOfCoke'>here</a>.  (Note the Azure site is no longer up.)
 
-  #### Project
+#### Project
 Another project we did was trying to visualize a resume. This uses a D3 to make a tree showing connections between skills and where they were used.
-
-* to do *  Create a page showing live versions of these projects.
-
-
-More to add...
